@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Which Emmett's Mark actor also played in the HBO series \"The Wire\"?",
+        "answer": "John Doman",
+        "chat": [
+            {"role": "user", "content": "Problem: Which Emmett's Mark actor also played in the HBO series \"The Wire\"?\nLet's think step by step to solve this problem"},
+            {"role": "assistant", "content": "First, we need to know the actors of Emmett's Mark"},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "the actors in Emmett's Mark"},
+            {"role": "user", "content": "Evidence: Christopher Peter \"Chris\" Demetral (born November 14, 1976) is a former American actor best known as Jeremy Tupper, the son of newly divorced New York book editor Martin Tupper (played by Brian Benben) on the HBO series \"Dream On\". He also played the title character in the short-lived series, \"The Secret Adventures of Jules Verne\" on the Sci Fi Channel. He also played Christopher Ewing in \"\".\nIs this evidence useful?"},
+            {"role": "assistant", "content": "No"},
+            {"role": "user", "content": "Emmett's Mark is a 2002 American thriller film directed by Keith Snyder and starring Scott Wolf, Khandi Alexander, Talia Balsam, Sarah Clarke, John Doman, with Tim Roth and Gabriel Byrne. The film also features Ira Hawkins, Benjamin John Parrillo, Elizabeth Reaser, Carolyn McCormick, Adam LeFevre, and Greg Wood, along with Roundhouse Ron as the Crime Scene Unit movie consultant for the Philadelphia Police Department.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that Scott Wolf, Khandi Alexander, Talia Balsam, Sarah Clarke, John Doman, with Tim Roth and Gabriel Byrne played in Emmett's Mark"},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "Second, we need to know who played in the HBO series \"The Wire\""},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "The actor played in the HBO series \"The Wire\""},
+            {"role": "user", "content": "Evidence: John Doman (born January 9, 1945) is an American actor best known for playing Deputy Police Commissioner/ Major William Rawls on HBO series \"The Wire\" from 2002 to 2008, Colonel Edward Galson on \"Oz\" in 2001 and Rodrigo Borgia in the international television series \"Borgia\" from 2011 to 2014. John Doman is currently starring as Don Carmine Falcone in Fox's show \"Gotham\" (2014\u2013present).\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that John Doman played in \"The Wire\" and he also played in Emmett's Mark"},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "We get the answer. The answer is John Doman"}
+        ]
+    },
+    {
+        "question": "Who directed the upcoming British action comedy film which has Johnny English as the first part?",
+        "answer": "David Kerr",
+        "chat": [
+            {"role": "user", "content": "Problem: Who directed the upcoming British action comedy film which has Johnny English as the first part?\nLet's think step by step to solve this problem"},
+            {"role": "assistant", "content": "First, we need to know about the Johnny English"},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "the Johnny English"},
+            {"role": "user", "content": "Johnny English is a British series of action comedy film parodying the James Bond secret agent genre. It features Rowan Atkinson as the titular character, based on the screenplay was written by Neal Purvis and Robert Wade. The series included 3 instalments: \"Johnny English\" (2003), \"Johnny English Reborn\" (2011), and the upcoming \"Johnny English 3\" which is in pre-production. The series also infused with comedy similar to Atkinson's Mr. Bean character and grossed $320 worldwide.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that \"Johnny English 3\" is upcoming."},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "Second, we need to we need to find the director of \"Johnny English 3\""},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "the director of \"Johnny English 3\""},
+            {"role": "user", "content": "Evidence: Johnny English 3 is an upcoming British action comedy film directed by David Kerr. It is a sequel to 2011 film \"Johnny English Reborn\" and the third installment of \"Johnny English series\". The film stars Rowan Atkinson. It will be released on 12 October 2018 by Universal Pictures.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that the director of \"Johnny English 3\" is David Kerr"},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "We get the answer. The answer is David Kerr"}
+        ]
+    },
+    {
+        "question": "Paolo Rocca is a CEO of the conglomerate founded in what Italian city in 1945",
+        "answer": "Milan",
+        "chat": [
+            {"role": "user", "content": "Problem: Paolo Rocca is a CEO of the conglomerate founded in what Italian city in 1945\nLet's think step by step to solve this problem"},
+            {"role": "assistant", "content": "First, we need to know Paolo Rocca is a CEO of which conglomerate"},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "Paolo Rocca is a CEO of which conglomerate"},
+            {"role": "user", "content": "Evidence: Paolo Rocca (born 1952) is an Argentine-Italian businessman, CEO of the Techint Group, which holds Tenaris, Ternium and other companies that operate in the engineering, construction and energy sectors. He is also Chairman and CEO of Tenaris, and Chairman of Ternium.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that Paolo Rocca is the CEO of the Techint Group."},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "Second, we need to know Techint Group was founded in which city."},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "The city that Techint Group was founded in"},
+            {"role": "user", "content": "Techint is an Italian-Argentine conglomerate founded in Milan in 1945 by Italian industrialist Agostino Rocca and headquartered in Milan (Italy) and Buenos Aires (Argentina). Today the Techint Group is composed of six main companies with an international reach, all global or regional leaders in their fields, in the following areas of business: engineering, construction, steel, mining, oil & gas, industrial plants, healthcare. Techint, with its subsidiaries, is the largest steel making company in Latin America. Techint is the world's largest manufacturer of seamless steel tubes, mainly used in the oil industry.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that Techint is an Italian-Argentine conglomerate founded in Milan"},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "We get the answer. The answer is Milan"}
+        ]
+    },
+    {
+        "question": "David Harris, an Australian actor and singer, starred opposite of which actor in \"Les Miserables\" who is also a distinguished professor in musical theater?",
+        "answer": "Terrence Mann",
+        "chat": [
+            {"role": "user", "content": "Problem: David Harris, an Australian actor and singer, starred opposite of which actor in \"Les Miserables\" who is also a distinguished professor in musical theater?\nLet's think step by step to solve this problem"},
+            {"role": "assistant", "content": "First, we need to know the actor who is a distinguished professor in musical theater."},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "the actor who is a distinguished professor in musical theater."},
+            {"role": "user", "content": "Evidence: Braden Danner (born July 13, 1975) is an American actor, writer, director and producer who has worked in theatre, television, and film. He is a graduate of The USC School of Cinematic Arts. He gained critical acclaim for his performances on the stage and screen in such roles as Oliver in \"Oliver!\" on Broadway, Gavroche in the Original Broadway Cast of \"Les Miserables\", and Buddy McGillis in ABC's \"One Life to Live\", for which he was nominated for The Young Artist Award. While performing in \"Les Miserables\", he also originated the role of Control in Andrew Lloyd Webber's \"Starlight Express\", making him the first young actor in history to star in two Broadway shows at once. He later starred in the original cast of \"The All-New Mickey Mouse Club\" (1989\u20131996), the Disney television series that launched the careers of such superstars as Britney Spears, Justin Timberlake and Ryan Gosling.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "No"},
+            {"role": "user", "content": "Evidence: Terrence Vaughan Mann (born July 1, 1951) is an American actor, director, singer, songwriter and dancer who has been prominent on the Broadway stage for the past three decades. He is a distinguished professor in musical theater at Western Carolina University in Cullowhee, North Carolina.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that Terrence Vaughan Mann is a distinguished professor in musical theater"},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "Second, we need to know David Harris opposite of which actor"},
+            {"role": "user", "content": "To solve this sub-problem, which sentence can we use to retrieve useful information?"},
+            {"role": "assistant", "content": "the actor that David Harris opposite of"},
+            {"role": "user", "content": "Evidence: David Harris (born 1975) is an Australian actor and singer, currently based in New York City. He is best known for his Australian performances as Chris in \"Miss Saigon\", Fiyero in \"Wicked\" and Emmett in \"Legally Blonde\" having received Helpmann Award nominations for all three leading roles. Harris also starred as the Baker in Victorian Opera's production of \"Into the Woods\" and, in America, as Jean Valjean in \"Les Mis\u00e9rables\" opposite Terrence Mann in 2015. He has released two solo albums.\nIs this evidence useful?"},
+            {"role": "assistant", "content": "Yes. We can find that David Harris opposite of Terrence Mann and Terrence Mann is a distinguished professor in musical theater"},
+            {"role": "user", "content": "Continue reasoning"},
+            {"role": "assistant", "content": "We get the answer. The answer is Terrence Mann"}
+        ]
+    }
+]

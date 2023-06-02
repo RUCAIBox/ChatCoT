@@ -1,0 +1,43 @@
+Problem: Which Emmett's Mark actor also played in the HBO series \"The Wire\"?\nLet's think step by step to solve this problem
+First, we need to know the actors of Emmett's Mark
+To solve this sub-problem, we can use retriever [SR] the actors in Emmett's Mark [ER]
+Evidence: Emmett's Mark is a 2002 American thriller film directed by Keith Snyder and starring Scott Wolf, Khandi Alexander, Talia Balsam, Sarah Clarke, John Doman, with Tim Roth and Gabriel Byrne. The film also features Ira Hawkins, Benjamin John Parrillo, Elizabeth Reaser, Carolyn McCormick, Adam LeFevre, and Greg Wood, along with Roundhouse Ron as the Crime Scene Unit movie consultant for the Philadelphia Police Department.
+We can find that Scott Wolf, Khandi Alexander, Talia Balsam, Sarah Clarke, John Doman, with Tim Roth and Gabriel Byrne played in Emmett's Mark
+Second, we need to know who played in the HBO series \"The Wire\"
+To solve this sub-problem, we can use retriever [SR] The actor played in the HBO series \"The Wire\" [ER]
+Evidence: John Doman (born January 9, 1945) is an American actor best known for playing Deputy Police Commissioner/ Major William Rawls on HBO series \"The Wire\" from 2002 to 2008, Colonel Edward Galson on \"Oz\" in 2001 and Rodrigo Borgia in the international television series \"Borgia\" from 2011 to 2014. John Doman is currently starring as Don Carmine Falcone in Fox's show \"Gotham\" (2014\u2013present).
+We can find that John Doman played in \"The Wire\" and he also played in Emmett's Mark
+We get the answer. The answer is John Doman
+
+Problem: Who directed the upcoming British action comedy film which has Johnny English as the first part?\nLet's think step by step to solve this problem
+First, we need to know about the Johnny English
+To solve this sub-problem, we can use retriever [SR] the Johnny English [ER]
+Evidence: Johnny English is a British series of action comedy film parodying the James Bond secret agent genre. It features Rowan Atkinson as the titular character, based on the screenplay was written by Neal Purvis and Robert Wade. The series included 3 instalments: \"Johnny English\" (2003), \"Johnny English Reborn\" (2011), and the upcoming \"Johnny English 3\" which is in pre-production. The series also infused with comedy similar to Atkinson's Mr. Bean character and grossed $320 worldwide.
+We can find that \"Johnny English 3\" is upcoming.
+Second, we need to we need to find the director of \"Johnny English 3\"
+To solve this sub-problem, we can use retriever [SR] the director of \"Johnny English 3\" [ER]
+Evidence: Johnny English 3 is an upcoming British action comedy film directed by David Kerr. It is a sequel to 2011 film \"Johnny English Reborn\" and the third installment of \"Johnny English series\". The film stars Rowan Atkinson. It will be released on 12 October 2018 by Universal Pictures.
+We can find that the director of \"Johnny English 3\" is David Kerr
+We get the answer. The answer is David Kerr
+
+Problem: Paolo Rocca is a CEO of the conglomerate founded in what Italian city in 1945\nLet's think step by step to solve this problem
+First, we need to know Paolo Rocca is a CEO of which conglomerate
+To solve this sub-problem, we can use retriever [SR] Paolo Rocca is a CEO of which conglomerate [ER]
+Evidence: Paolo Rocca (born 1952) is an Argentine-Italian businessman, CEO of the Techint Group, which holds Tenaris, Ternium and other companies that operate in the engineering, construction and energy sectors. He is also Chairman and CEO of Tenaris, and Chairman of Ternium.
+We can find that Paolo Rocca is the CEO of the Techint Group.
+Second, we need to know Techint Group was founded in which city.
+To solve this sub-problem, we can use retriever [SR] The city that Techint Group was founded in [ER]
+Evidence: Techint is an Italian-Argentine conglomerate founded in Milan in 1945 by Italian industrialist Agostino Rocca and headquartered in Milan (Italy) and Buenos Aires (Argentina). Today the Techint Group is composed of six main companies with an international reach, all global or regional leaders in their fields, in the following areas of business: engineering, construction, steel, mining, oil & gas, industrial plants, healthcare. Techint, with its subsidiaries, is the largest steel making company in Latin America. Techint is the world's largest manufacturer of seamless steel tubes, mainly used in the oil industry.
+We can find that Techint is an Italian-Argentine conglomerate founded in Milan
+We get the answer. The answer is Milan
+
+Problem: David Harris, an Australian actor and singer, starred opposite of which actor in \"Les Miserables\" who is also a distinguished professor in musical theater?\nLet's think step by step to solve this problem
+First, we need to know the actor who is a distinguished professor in musical theater.
+To solve this sub-problem, we can use retriever [SR] the actor who is a distinguished professor in musical theater. [ER]
+Evidence: Terrence Vaughan Mann (born July 1, 1951) is an American actor, director, singer, songwriter and dancer who has been prominent on the Broadway stage for the past three decades. He is a distinguished professor in musical theater at Western Carolina University in Cullowhee, North Carolina.\nIs this evidence useful?
+We can find that Terrence Vaughan Mann is a distinguished professor in musical theater
+Second, we need to know David Harris opposite of which actor
+To solve this sub-problem, we can use retriever [SR] the actor that David Harris opposite of [ER]
+Evidence: David Harris (born 1975) is an Australian actor and singer, currently based in New York City. He is best known for his Australian performances as Chris in \"Miss Saigon\", Fiyero in \"Wicked\" and Emmett in \"Legally Blonde\" having received Helpmann Award nominations for all three leading roles. Harris also starred as the Baker in Victorian Opera's production of \"Into the Woods\" and, in America, as Jean Valjean in \"Les Mis\u00e9rables\" opposite Terrence Mann in 2015. He has released two solo albums.
+We can find that David Harris opposite of Terrence Mann and Terrence Mann is a distinguished professor in musical theater
+We get the answer. The answer is Terrence Mann

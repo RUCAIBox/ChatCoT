@@ -2,7 +2,7 @@
 
 This repo provides the source code & data of our paper: [ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models](https://arxiv.org/abs/2305.14323) (Arxiv 2023).
 
-![./picture/framework.png]()
+![](./picture/framework.png)
 
 ```
 @InProceedings{Chen-ChatCot-2023,

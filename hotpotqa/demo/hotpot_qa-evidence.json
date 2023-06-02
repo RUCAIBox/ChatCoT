@@ -1,0 +1,383 @@
+[
+    {
+        "id": "5a7bb1315542997c3ec97253",
+        "question": "Which Emmett's Mark actor also played in the HBO series \"The Wire\"?",
+        "cot": "First, we need to know the actor of Emmett's Mark. They are Scott Wolf, Khandi Alexander, Talia Balsam, Sarah Clarke, John Doman, with Tim Roth and Gabriel Byrne. Second, we need to know who played in the HBO series \"The Wire\"? And we can get the answer is John Doman.",
+        "answer": "John Doman",
+        "type": "bridge",
+        "level": "medium",
+        "supporting_facts": {
+            "title": [
+                "Emmett's Mark",
+                "John Doman"
+            ],
+            "sent_id": [
+                0,
+                0
+            ]
+        },
+        "context": {
+            "title": [
+                "Nathan Barksdale",
+                "Pablo Schreiber",
+                "Chris Demetral",
+                "Michael K. Williams",
+                "Emmett's Mark",
+                "John Doman",
+                "John Gallagher Jr.",
+                "Kenneth A. Jackson",
+                "Jeffrey Wright",
+                "Darrell Britt-Gibson"
+            ],
+            "sentences": [
+                [
+                    "Nathan Barksdale (1961 \u2013 February 13, 2016) was a Baltimore drug dealer dramatized in the HBO series The Wire, but the extent to which any of the show\u2019s characters or plot lines are based on his life is disputed.",
+                    " His life is the subject of the unreleased docudrama \"Baltimore Chronicles: Legends of the Unwired\", which purports to be the true story behind \"The Wire\".",
+                    " He was in the early stages of writing his autobiography at the time of his death."
+                ],
+                [
+                    "Pablo Tell Schreiber (born April 26, 1978) is a Canadian-American actor known for his dramatic stage work and for his portrayal of Nick Sobotka on \"The Wire\" and for his role of George \"Pornstache\" Mendez on \"Orange Is the New Black\".",
+                    " He was nominated for a Tony Award for his performance in \"Awake and Sing!",
+                    "\" on Broadway.",
+                    " He also narrated the \"American Psycho\" audiobook.",
+                    " He also starred in the HBO series \"The Brink\" as Lieutenant Commander Zeke \"Z-Pak\" Tilson, a Naval pilot who is also a drug dealer, and played a leading role in the Michael Bay film \"\" (2016).",
+                    " He also played William Lewis on \"Law and Order Special Victims Unit\".",
+                    " He appears in the television adaptation of \"American Gods\" as the leprechaun Mad Sweeney."
+                ],
+                [
+                    "Christopher Peter \"Chris\" Demetral (born November 14, 1976) is a former American actor best known as Jeremy Tupper, the son of newly divorced New York book editor Martin Tupper (played by Brian Benben) on the HBO series \"Dream On\".",
+                    " He also played the title character in the short-lived series, \"The Secret Adventures of Jules Verne\" on the Sci Fi Channel.",
+                    " He also played Christopher Ewing in \"\"."
+                ],
+                [
+                    "Michael Kenneth Williams (born November 22, 1966) is an American actor, dancer, and reporter.",
+                    " He is best known for his portrayal of Omar Little on the HBO drama series \"The Wire\" and Albert \"Chalky\" White on the HBO series \"Boardwalk Empire\".",
+                    " He was also acclaimed for his role as Jack Gee, husband of Bessie Smith, in the HBO telefilm biopic \"Bessie\".",
+                    " He has acted in supporting roles in a number of films and television series, including \"The Road\", \"Inherent Vice\", \"The Night Of\", \"Gone Baby Gone\", and \"12 Years a Slave\"."
+                ],
+                [
+                    "Emmett's Mark is a 2002 American thriller film directed by Keith Snyder and starring Scott Wolf, Khandi Alexander, Talia Balsam, Sarah Clarke, John Doman, with Tim Roth and Gabriel Byrne.",
+                    " The film also features Ira Hawkins, Benjamin John Parrillo, Elizabeth Reaser, Carolyn McCormick, Adam LeFevre, and Greg Wood, along with Roundhouse Ron as the Crime Scene Unit movie consultant for the Philadelphia Police Department."
+                ],
+                [
+                    "John Doman (born January 9, 1945) is an American actor best known for playing Deputy Police Commissioner/ Major William Rawls on HBO series \"The Wire\" from 2002 to 2008, Colonel Edward Galson on \"Oz\" in 2001 and Rodrigo Borgia in the international television series \"Borgia\" from 2011 to 2014.",
+                    " John Doman is currently starring as Don Carmine Falcone in Fox's show \"Gotham\" (2014\u2013present)."
+                ],
+                [
+                    "John Howard Gallagher Jr. (born June 17, 1984) is an American actor and musician known for originating the role of Moritz Stiefel in Duncan Sheik and Steven Sater's rock musical \"Spring Awakening\", which earned him a Tony Award for Best Featured Actor in a Musical.",
+                    " He also played Johnny in Green Day's Broadway musical, \"American Idiot\", Lee in the 2011 Broadway production of \"Jerusalem,\" and Edmund in the 2016 Broadway revival of \"Long Day's Journey Into Night\".",
+                    " He portrayed Jim Harper in Aaron Sorkin's drama series \"The Newsroom\", starred in the HBO mini-series \"Olive Kitteridge\", and played Emmett DeWitt in \"10 Cloverfield Lane\"."
+                ],
+                [
+                    "Kenneth A. \"Kenny\" Jackson is a businessman in Baltimore, Maryland, with past connections to the illegal drug trade in the city.",
+                    " He is one of the Baltimore underworld figures whose stories are dramatized in the HBO series \"The Wire\", but his actual influence upon the show is disputed.",
+                    " The connections among drug trafficking, legitimate businesses, and political donations depicted in \"The Wire\" reflect aspects of Jackson\u2019s life."
+                ],
+                [
+                    "Jeffrey Wright (born December 7, 1965) is an American film, television and stage actor.",
+                    " He is known for such roles as Belize in the HBO miniseries \"Angels in America\", Jean-Michel Basquiat in \"Basquiat\", Felix Leiter in the James Bond films \"Casino Royale\" and \"Quantum of Solace\", Valentin Narcisse in the HBO series \"Boardwalk Empire\", and Beetee in \"The Hunger Games\" films.",
+                    " He currently stars as Bernard Lowe in the HBO series \"Westworld\"."
+                ],
+                [
+                    "Darrell Britt-Gibson is an American actor, known for his role as Darius \"O-Dog\" Hill on the HBO series \"The Wire\".",
+                    " He has also appeared on the Showtime series \"Californication\", the Starz series \"Power\", and the FX series \"You're the Worst\".",
+                    " In 2016, he starred in the films \"Keanu\" and \"20th Century Women\"."
+                ]
+            ]
+        },
+        "evidence": [
+            "Christopher Peter \"Chris\" Demetral (born November 14, 1976) is a former American actor best known as Jeremy Tupper, the son of newly divorced New York book editor Martin Tupper (played by Brian Benben) on the HBO series \"Dream On\".  He also played the title character in the short-lived series, \"The Secret Adventures of Jules Verne\" on the Sci Fi Channel.  He also played Christopher Ewing in \"\".",
+            "John Doman (born January 9, 1945) is an American actor best known for playing Deputy Police Commissioner/ Major William Rawls on HBO series \"The Wire\" from 2002 to 2008, Colonel Edward Galson on \"Oz\" in 2001 and Rodrigo Borgia in the international television series \"Borgia\" from 2011 to 2014.  John Doman is currently starring as Don Carmine Falcone in Fox's show \"Gotham\" (2014\u2013present).",
+            "Pablo Tell Schreiber (born April 26, 1978) is a Canadian-American actor known for his dramatic stage work and for his portrayal of Nick Sobotka on \"The Wire\" and for his role of George \"Pornstache\" Mendez on \"Orange Is the New Black\".  He was nominated for a Tony Award for his performance in \"Awake and Sing! \" on Broadway.  He also narrated the \"American Psycho\" audiobook.  He also starred in the HBO series \"The Brink\" as Lieutenant Commander Zeke \"Z-Pak\" Tilson, a Naval pilot who is also a drug dealer, and played a leading role in the Michael Bay film \"\" (2016).  He also played William Lewis on \"Law and Order Special Victims Unit\".  He appears in the television adaptation of \"American Gods\" as the leprechaun Mad Sweeney."
+        ]
+    },
+    {
+        "id": "5ae03a3655429942ec259c50",
+        "question": "Who directed the upcoming British action comedy film which has Johnny English as the first part? ",
+        "cot": "First, we need to know about the Johnny English. We can find that \"Johnny English 3\" is upcoming. Second, we need to find the director of \"Johnny English 3\". We can get the answer is David Kerr.",
+        "answer": "David Kerr",
+        "type": "bridge",
+        "level": "medium",
+        "supporting_facts": {
+            "title": [
+                "Johnny English (film series)",
+                "Johnny English 3"
+            ],
+            "sent_id": [
+                0,
+                0
+            ]
+        },
+        "context": {
+            "title": [
+                "Johnny English (film series)",
+                "Alan Partridge: Alpha Papa",
+                "Gun Shy (2017 film)",
+                "Johnny English 3",
+                "Taron Egerton",
+                "Tony Scott",
+                "The 51st State",
+                "Johnny English",
+                "Awara Paagal Deewana",
+                "Johnny English Reborn"
+            ],
+            "sentences": [
+                [
+                    "Johnny English is a British series of action comedy film parodying the James Bond secret agent genre.",
+                    " It features Rowan Atkinson as the titular character, based on the screenplay was written by Neal Purvis and Robert Wade.",
+                    " The series included 3 instalments: \"Johnny English\" (2003), \"Johnny English Reborn\" (2011), and the upcoming \"Johnny English 3\" which is in pre-production.",
+                    " The series also infused with comedy similar to Atkinson's Mr. Bean character and grossed $320 worldwide."
+                ],
+                [
+                    "Alan Partridge: Alpha Papa (released as Alan Partridge in the United States) is a 2013 British action comedy film starring Steve Coogan reprising his role as Alan Partridge, a fictional presenter he has played on various BBC radio and television shows since 1991 and Colm Meaney as Pat Farrell.",
+                    " The film was directed by Declan Lowney and written by Coogan, Armando Iannucci, Peter Baynham and Neil and Rob Gibbons.",
+                    " Principal photography began on 7 January 2013 in Norwich and Mitcham, and the film premiered on 24 July 2013."
+                ],
+                [
+                    "Gun Shy is a British action comedy film directed by Simon West starring Antonio Banderas.",
+                    " It was released on 8 September 2017."
+                ],
+                [
+                    "Johnny English 3 is an upcoming British action comedy film directed by David Kerr.",
+                    " It is a sequel to 2011 film \"Johnny English Reborn\" and the third installment of \"Johnny English series\".",
+                    " The film stars Rowan Atkinson.",
+                    " It will be released on 12 October 2018 by Universal Pictures."
+                ],
+                [
+                    "Taron David Egerton (born 10 November 1989) is a Welsh actor.",
+                    " He is known for his roles in the British television series \"The Smoke\" and the 2014 action comedy film \"\".",
+                    " He has also played Edward Brittain in the 2014 drama film \"Testament of Youth\", appeared in the 2015 crime thriller film \"Legend\", starred as Eddie \"The Eagle\" Edwards in the 2016 biographical film \"Eddie the Eagle\", voiced Johnny in the 2016 animated musical film \"Sing\", and reprised his role in the 2017 sequel \"\".",
+                    " His upcoming films include \"Billionaire Boys Club\" and \"Robin Hood\"."
+                ],
+                [
+                    "Anthony David Leighton Scott (21 June 1944 \u2013 19 August 2012) was an English film director and producer.",
+                    " His films come from a broad range of genres, including the action drama \"Top Gun\" (1986), action comedy \"Beverly Hills Cop II\" (1987), auto racing film \"Days of Thunder\" (1990), action comedy \"The Last Boy Scout\" (1991), romantic dark comedy crime film \"True Romance\" (1993), submarine action film \"Crimson Tide\" (1995), psychological thriller \"The Fan\" (1996), spy thriller \"Enemy of the State\" (1998), spy film \"Spy Game\" (2001), action thriller \"Man on Fire\" (2004), sci-fi action thriller \"D\u00e9j\u00e0 Vu\" (2006), thriller \"The Taking of Pelham 123\" (2009), and the action thriller \"Unstoppable\" (2010)."
+                ],
+                [
+                    "The 51st State (also known as Formula 51) is a 2001 British action comedy film directed by Ronny Yu, written by Stel Pavlou, and starring Samuel L. Jackson, Robert Carlyle, Emily Mortimer, Ricky Tomlinson, Sean Pertwee, Rhys Ifans, and Meat Loaf.",
+                    " The film follows the story of an American master chemist (Jackson) who heads to Britain to sell his formula for a powerful new drug.",
+                    " All does not go as planned and the chemist soon becomes entangled in a web of deceit."
+                ],
+                [
+                    "Johnny English is a 2003 British-American spy comedy film parodying the James Bond secret agent genre infused with comedy similar to Atkinson's Mr. Bean character.",
+                    " The film stars Rowan Atkinson, Natalie Imbruglia, Ben Miller and John Malkovich.",
+                    " The screenplay was written by Bond writers Neal Purvis and Robert Wade, with William Davies, and the film was directed by Peter Howitt.",
+                    " It is the first installment of the \"Johnny English film series\"."
+                ],
+                [
+                    "Awara Paagal Deewana (Hindi: \u0906\u0935\u093e\u0930\u093e \u092a\u093e\u0917\u0932 \u0926\u0940\u0935\u093e\u0928\u093e , English: \"Wayward, Crazy, Insane\") is a 2002 Indian Hindi action comedy film directed by Vikram Bhatt.",
+                    " The film's music was composed by Anu Malik, and the lyrics by Sameer.",
+                    " It has a plot loosely inspired by \"The Whole Nine Yards\", and features action scenes choreographed by stunt director Dion Lam, who worked on \"The Matrix\" and Hong Kong action films.",
+                    " \"Awara Paagal Deewana\" was one of the highest grossing Hindi films of the year 2002.",
+                    " It was notable for lavish and exotic song picturisations, stunts/action scenes by Akshay Kumar, and Paresh Rawal's popular comical chemistry with Johnny Lever, who played a funny character called Chhota Chhatri."
+                ],
+                [
+                    "Johnny English Reborn is a 2011 British action comedy film parodying the James Bond secret agent genre.",
+                    " The film is the sequel to \"Johnny English\" (2003), and stars Rowan Atkinson reprising his role as the title character and directed by Oliver Parker.",
+                    " The film is the second installment of the \"Johnny English film series\"."
+                ]
+            ]
+        },
+        "evidence": [
+            "Johnny English 3 is an upcoming British action comedy film directed by David Kerr.  It is a sequel to 2011 film \"Johnny English Reborn\" and the third installment of \"Johnny English series\".  The film stars Rowan Atkinson.  It will be released on 12 October 2018 by Universal Pictures.",
+            "Johnny English Reborn is a 2011 British action comedy film parodying the James Bond secret agent genre.  The film is the sequel to \"Johnny English\" (2003), and stars Rowan Atkinson reprising his role as the title character and directed by Oliver Parker.  The film is the second installment of the \"Johnny English film series\".",
+            "Johnny English is a British series of action comedy film parodying the James Bond secret agent genre.  It features Rowan Atkinson as the titular character, based on the screenplay was written by Neal Purvis and Robert Wade.  The series included 3 instalments: \"Johnny English\" (2003), \"Johnny English Reborn\" (2011), and the upcoming \"Johnny English 3\" which is in pre-production.  The series also infused with comedy similar to Atkinson's Mr. Bean character and grossed $320 worldwide."
+        ]
+    },
+    {
+        "id": "5ab67b7155429954757d32ef",
+        "question": "Paolo Rocca is a CEO of the conglomerate founded in what Italian city in 1945",
+        "cot": "First, we need to know Paolo Rocca is a CEO of which conglomerate. We can find that Paolo Rocca is the CEO of the Techint Group. Second, we need to know Techint Group was founded in which city. We can find that Techint is an Italian-Argentine conglomerate founded in Milan.",
+        "answer": "Milan",
+        "type": "bridge",
+        "level": "medium",
+        "supporting_facts": {
+            "title": [
+                "Paolo Rocca",
+                "Techint"
+            ],
+            "sent_id": [
+                0,
+                0
+            ]
+        },
+        "context": {
+            "title": [
+                "Mohammed Dewji",
+                "Ospedale railway station",
+                "Techint",
+                "Marino, Lazio",
+                "Paolo Rocca",
+                "Greka",
+                "1999 Giro d'Italia",
+                "San Gabriele railway station",
+                "2002 Giro d'Italia",
+                "B.Grimm"
+            ],
+            "sentences": [
+                [
+                    "Mohammed \"Mo\" Gulamabbas Dewji (born 8 May 1975) is a Tanzanian businessman,philanthropist, and former politician.",
+                    " He is the president and CEO of MeTL Group, a Tanzanian conglomerate founded by his father in the 1970s.",
+                    " Dewji served as Member of Parliament from 2005 \u2013 2015 for his home town of Singida.",
+                    " In March 2015 \"Forbes\" magazine named him as the 21st richest person in Africa, with his net worth an estimated US $1.1 billion, having also been the first billionaire in Tanzanian \"Forbes\" Magazine in 2013."
+                ],
+                [
+                    "Ospedale (Italian: \"Stazione di Ospedale\" ) is a railway station in the Italian city of Bari, in the Province of Bari, Apulia.",
+                    " The station lies on the Bari\u2013San Paolo railway.",
+                    " The train services are operated by Ferrotramviaria."
+                ],
+                [
+                    "Techint is an Italian-Argentine conglomerate founded in Milan in 1945 by Italian industrialist Agostino Rocca and headquartered in Milan (Italy) and Buenos Aires (Argentina).",
+                    " Today the Techint Group is composed of six main companies with an international reach, all global or regional leaders in their fields, in the following areas of business: engineering, construction, steel, mining, oil & gas, industrial plants, healthcare.",
+                    " Techint, with its subsidiaries, is the largest steel making company in Latin America.",
+                    " Techint is the world's largest manufacturer of seamless steel tubes, mainly used in the oil industry."
+                ],
+                [
+                    "Marino (\"Marinum\" or \"Castrimoenium\" in Latin, \"Marini\" in local dialect) is an Italian city and \"comune\" in Lazio (central Italy), on the Alban Hills, Italy, 21 km southeast of Rome, with a population of 37,684 and a territory of 26.10 km2 .",
+                    " It is bounded by other communes, Castel Gandolfo, Albano Laziale, Rocca di Papa, Grottaferrata, and Ciampino.",
+                    " Marino is famous for its white wine, and for its \"Grape Festival\", which has been celebrated since 1924."
+                ],
+                [
+                    "Paolo Rocca (born 1952) is an Argentine-Italian businessman, CEO of the Techint Group, which holds Tenaris, Ternium and other companies that operate in the engineering, construction and energy sectors.",
+                    " He is also Chairman and CEO of Tenaris, and Chairman of Ternium."
+                ],
+                [
+                    "The Greka Group is a privately held oil and gas conglomerate founded in 1997 by businessman and entrepreneur Randeep Grewal.",
+                    " Greka entities include London Stock Exchange-listed Green Dragon Gas and Greka Drilling, as well as Greka Engineering & Technology and Greka Integrated.",
+                    " Grewal currently serves as chairman and CEO of all of these companies."
+                ],
+                [
+                    "The 1999 Giro d'Italia was the 82nd\u00a0edition of the Giro d'Italia, one of cycling's Grand Tours.",
+                    " The Giro began on May 15 with a mass-start stage that stretched from Agrigento to Modica.",
+                    " The race came to a close on June 6 with a mass-start stage that ended in the Italian city of Milan.",
+                    " Eighteen teams entered the race that was won by the Italian Ivan Gotti (sub judice )of the Team Polti team.",
+                    " Second and third were the Italians riders Paolo Savoldelli and Gilberto Simoni."
+                ],
+                [
+                    "San Gabriele (Italian: \"Stazione di San Gabriele\" ) is a railway station in the Italian city of Bari, in the Province of Bari, Apulia.",
+                    " The station lies on the Bari\u2013San Paolo railway.",
+                    " The train services are operated by Ferrotramviaria."
+                ],
+                [
+                    "The 2002 Giro d'Italia was the 85th\u00a0edition of the Giro d'Italia, one of cycling's Grand Tours.",
+                    " The Giro began with a 6.5 km prologue that navigated through the streets of the Dutch city Groningen.",
+                    " The race came to a close with a mass-start stage that ended in the Italian city of Milan.",
+                    " Twenty-two teams entered the race that was won by the Italian Paolo Savoldelli of the Index Alexia team.",
+                    " Second and third were the American Tyler Hamilton and Italian Pietro Caucchioli."
+                ],
+                [
+                    "B.Grimm (Thai: \u0e1a\u0e35.\u0e01\u0e23\u0e34\u0e21 ) is a multinational conglomerate founded in 1878, based in Bangkok, Thailand.",
+                    " The large-scale conglomerate is active in healthcare, energy, building & industrial systems, real estate, e-commerce, and transport; with 22% annual growth in recent years.",
+                    " The company is wholly owned and operated by the Link family.",
+                    " The chairman and CEO, Harald Link, is a noted polo player and philanthropist."
+                ]
+            ]
+        },
+        "evidence": [
+            "Paolo Rocca (born 1952) is an Argentine-Italian businessman, CEO of the Techint Group, which holds Tenaris, Ternium and other companies that operate in the engineering, construction and energy sectors.  He is also Chairman and CEO of Tenaris, and Chairman of Ternium.",
+            "Techint is an Italian-Argentine conglomerate founded in Milan in 1945 by Italian industrialist Agostino Rocca and headquartered in Milan (Italy) and Buenos Aires (Argentina).  Today the Techint Group is composed of six main companies with an international reach, all global or regional leaders in their fields, in the following areas of business: engineering, construction, steel, mining, oil & gas, industrial plants, healthcare.  Techint, with its subsidiaries, is the largest steel making company in Latin America.  Techint is the world's largest manufacturer of seamless steel tubes, mainly used in the oil industry.",
+            "Ospedale (Italian: \"Stazione di Ospedale\" ) is a railway station in the Italian city of Bari, in the Province of Bari, Apulia.  The station lies on the Bari\u2013San Paolo railway.  The train services are operated by Ferrotramviaria."
+        ]
+    },
+    {
+        "id": "5a8234c8554299676cceb22a",
+        "question": "David Harris, an Australian actor and singer, starred opposite of which actor in \"Les Miserables\" who is also a distinguished professor in musical theater?",
+        "cot": "First, we need to know the actor who is a distinguished professor in musical theater. We can find that Terrence Vaughan Mann is a distinguished professor in musical theater. And David Harris opposite Terrence Mann.",
+        "answer": "Terrence Mann",
+        "type": "bridge",
+        "level": "hard",
+        "supporting_facts": {
+            "title": [
+                "David Harris (Australian actor)",
+                "David Harris (Australian actor)",
+                "Terrence Mann",
+                "Terrence Mann"
+            ],
+            "sent_id": [
+                0,
+                2,
+                0,
+                1
+            ]
+        },
+        "context": {
+            "title": [
+                "David Benoit (actor)",
+                "Iwan Lewis",
+                "Braden Danner",
+                "Isabeau M\u00e9ndez",
+                "Terrence Mann",
+                "David Harris (Australian actor)",
+                "Tsuyoshi Matsubara",
+                "Victor Hugo de Azevedo Coutinho",
+                "John Dempsey (lyricist)",
+                "Rodrigo de la Rosa"
+            ],
+            "sentences": [
+                [
+                    "David Benoit (born 1966) is an American actor and singer most known for being a replacement \"Thenadier\" in the original Broadway run of \"Les Miserables\".",
+                    " His most recent Broadway credit is playing the Bishop and Spider in the Broadway revival of \"Jekyll & Hyde\"."
+                ],
+                [
+                    "Iwan Lewis (born 28 December 1988) is a Welsh theatre and film actor.",
+                    " He is known for the roles of Emmett in the UK tour of the stage version of \"Legally Blonde\" and Bahorel in the film version of \"Les Miserables\".",
+                    " Lewis graduated from the Guildford School of Acting in 2010.",
+                    " In 2007, during his time at the GSA, he was a recipient of an award from the Elizabeth Evans Trust.",
+                    " In addition to his roles in \"Les Mis\u00e9rables\" and \"Legally Blonde\", Lewis also appeared in the 2010 London Revival of Stephen Sondheim's \"Passion\"."
+                ],
+                [
+                    "Braden Danner (born July 13, 1975) is an American actor, writer, director and producer who has worked in theatre, television, and film.",
+                    " He is a graduate of The USC School of Cinematic Arts.",
+                    " He gained critical acclaim for his performances on the stage and screen in such roles as Oliver in \"Oliver!",
+                    "\" on Broadway, Gavroche in the Original Broadway Cast of \"Les Miserables\", and Buddy McGillis in ABC's \"One Life to Live\", for which he was nominated for The Young Artist Award.",
+                    " While performing in \"Les Miserables\", he also originated the role of Control in Andrew Lloyd Webber's \"Starlight Express\", making him the first young actor in history to star in two Broadway shows at once.",
+                    " He later starred in the original cast of \"The All-New Mickey Mouse Club\" (1989\u20131996), the Disney television series that launched the careers of such superstars as Britney Spears, Justin Timberlake and Ryan Gosling."
+                ],
+                [
+                    "Isabeau Mendez (born March 31, 1990) is a musical theater actress, television hostess, singer and model.",
+                    " Born in Miami Beach, Florida, and raised in Panama, she has performed acting roles in stage productions such as Cosette in Les Miserables Panama, Tinkerbell in Peter Pan, Elle Woods in Legally Blonde, among other roles in the musicals Aladdin, Victor/Victoria, Beauty and the Beast and Fiddler On The Roof.",
+                    " On television, Isabeau has appeared on several reality shows and soap operas such as Los Brownies, Sue\u00f1os de Verano, Cantando por un Sue\u00f1o, La Ultima Hora, Lobby T.V. and \u00bfQuien T.V.?",
+                    " since 2008."
+                ],
+                [
+                    "Terrence Vaughan Mann (born July 1, 1951) is an American actor, director, singer, songwriter and dancer who has been prominent on the Broadway stage for the past three decades.",
+                    " He is a distinguished professor in musical theater at Western Carolina University in Cullowhee, North Carolina."
+                ],
+                [
+                    "David Harris (born 1975) is an Australian actor and singer, currently based in New York City.",
+                    " He is best known for his Australian performances as Chris in \"Miss Saigon\", Fiyero in \"Wicked\" and Emmett in \"Legally Blonde\" having received Helpmann Award nominations for all three leading roles.",
+                    " Harris also starred as the Baker in Victorian Opera's production of \"Into the Woods\" and, in America, as Jean Valjean in \"Les Mis\u00e9rables\" opposite Terrence Mann in 2015.",
+                    " He has released two solo albums."
+                ],
+                [
+                    "Tsuyoshi Matsubara (\u677e\u539f \u525b\u5fd7 , Matsubara Tsuyoshi ) is a Japanese singer and actor originally from Tokyo.",
+                    " He is a founding member of the vocal group Project DMM and in recent years has been a member of the Nippon Columbia group Project.R, gaining prominence as the vocalist for the 35th anniversary Super Sentai Series \"Kaizoku Sentai Gokaiger\"' s opening theme song.",
+                    " Matsubara has also appeared in various musical productions in Japan, including performing as Enjolras in a production of \"Les Miserables\" and Jack in Into the Woods.",
+                    " He began being interested in an anison career when he was 16 and was taught by Ichirou Mizuki before debuting in the Ultra Series vocal ensemble Project DMM."
+                ],
+                [
+                    "Victor Hugo de Azevedo Coutinho, 18th Count of Azevedo GCC, GCA (12 November 1871\u201327 June 1955), was a Portuguese naval officer, politician and professor, at the University of Coimbra and later the \"Escola Naval\" (Naval School).",
+                    " He was a member of the Portuguese Democratic Party and served as the President of the Council of Ministers (Prime Minister) for 7th government of the First Portuguese Republic (having led the country between 12 December 1914 and 25 January 1915).",
+                    " His government's composition was essentially made up of second-line political figures, and his government was jokingly referred to as \"\"Os miser\u00e1veis de Victor Hugo\"\" (\"The miserables of Victor Hugo\"), a play on the French author Victor Hugo's book \"Les Miserables\"."
+                ],
+                [
+                    "John Dempsey is an American theatrical lyricist and playwright who has worked in Britain and the United States.",
+                    " His work has been produced in Japan, Brazil and other countries.",
+                    " Much of his work in musical theater has been written with composer Dana P. Rowe.",
+                    " With Rowe, he wrote the book and lyrics for \"Zombie Prom\" (1995), \"The Fix\" (directed by Sam Mendes, 1997), and the stage adaptation of John Updike's \"The Witches of Eastwick\" (2000).",
+                    " Rowe and Dempsey were nominated for the Olivier Award for \"The Fix\" and \"The Witches of Eastwick\", both of which were produced in London by Cameron Mackintosh (\"Cats\", \"Phantom of the Opera\", \"Les Miserables\").",
+                    " He was the co-lyricist for \"The Pirate Queen\", collaborating with composer Claude-Michel Sch\u00f6nberg and lyricist Alain Boublil (\"Les Miserables\")."
+                ],
+                [
+                    "Rodrigo de la Rosa is a Mexican actor, best known for a list of telenovas.",
+                    " He starred in 3 successful Mexican telenovas, \"Daniela 2002\", \"El Alma Herida 2003\", and \"La Ley del Silencio 2005\", although he has appeared in musicals such as \"Man of La Mancha\" (1999), \"Jesus Christ Superstar\" (2000) and \"Les Miserables\" (2002-2003) playing the role of \"Marius\"."
+                ]
+            ]
+        },
+        "evidence": [
+            "David Harris (born 1975) is an Australian actor and singer, currently based in New York City.  He is best known for his Australian performances as Chris in \"Miss Saigon\", Fiyero in \"Wicked\" and Emmett in \"Legally Blonde\" having received Helpmann Award nominations for all three leading roles.  Harris also starred as the Baker in Victorian Opera's production of \"Into the Woods\" and, in America, as Jean Valjean in \"Les Mis\u00e9rables\" opposite Terrence Mann in 2015.  He has released two solo albums.",
+            "David Benoit (born 1966) is an American actor and singer most known for being a replacement \"Thenadier\" in the original Broadway run of \"Les Miserables\".  His most recent Broadway credit is playing the Bishop and Spider in the Broadway revival of \"Jekyll & Hyde\".",
+            "Braden Danner (born July 13, 1975) is an American actor, writer, director and producer who has worked in theatre, television, and film.  He is a graduate of The USC School of Cinematic Arts.  He gained critical acclaim for his performances on the stage and screen in such roles as Oliver in \"Oliver! \" on Broadway, Gavroche in the Original Broadway Cast of \"Les Miserables\", and Buddy McGillis in ABC's \"One Life to Live\", for which he was nominated for The Young Artist Award.  While performing in \"Les Miserables\", he also originated the role of Control in Andrew Lloyd Webber's \"Starlight Express\", making him the first young actor in history to star in two Broadway shows at once.  He later starred in the original cast of \"The All-New Mickey Mouse Club\" (1989\u20131996), the Disney television series that launched the careers of such superstars as Britney Spears, Justin Timberlake and Ryan Gosling."
+        ]
+    }
+]
